@@ -14,8 +14,8 @@ description: Project to practice web development
 author: Sparky SunDevil
 
 # Define site url
-url: https://watts-college.github.io/paf-514-example-website/
-baseurl: /paf-514-example-website/
+url: https://watts-college.github.io
+baseurl: /paf-514-example-website
 
 # --- List of links in the navigation bar --- #
 
